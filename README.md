@@ -22,6 +22,7 @@ During this course, i have worked on multiple projects related to each mobile ap
 Always have a proactive approach towards problems and ability to work individually as well as in team settings. High analytical ability and effective communication has always helped me to succeed in app development.
 
 🔭 Mobile Application Development at George Brown College
+
 📫 How to reach me: https://www.linkedin.com/in/arya-mayank/
 
 
