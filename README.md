@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 My name is Mayank Arya
 
-I am a mobile application developer with 3.5 years of professional experience. During my professional period, I developed multiple e-commerce apps and had a chance to learn about the complexitiy and solutions which comes in app development.
-Currently, I am pursuing my post grad in Mobile Application Development and Stratergy at George Brown College to gain educaitonal experience in Android,IOS, JavaScript and React-Native.
+I am a mobile application developer with 4 years of professional experience. During my professional period, I developed multiple e-commerce apps and had a chance to learn about the complexitiy and solutions which comes in app development.
+I have finished my post grad in Mobile Application Development and Stratergy at George Brown College to gain educaitonal experience in Android,IOS, JavaScript and React-Native.
+Currently, I am working at Myant Inc. as a Software developer after finishing my Co-op in the same company only.
+
 During this course, i have worked on multiple projects related to each mobile app development technologies.
 Always have a proactive approach towards problems and ability to work individually as well as in team settings. High analytical ability and effective communication has always helped me to succeed as an app developer.
 
